@@ -1,6 +1,6 @@
 # CART 360 - TANGIBLE MEDIA & PHYSICAL COMPUTING
-
-### Charles Bourassa - Fall 2020
+- Charles Bourassa
+- Fall 2020
 
 ## ETUDES
 - Stranger Things - [Link](etudes/strangerthings)
@@ -21,3 +21,6 @@
 - Response - [Link](reflections/one)
 ### II.
 - Response - [Link](reflections/two)
+
+## PRESENTATION
+### Final Project
