@@ -21,6 +21,3 @@
 - Response - [Link](reflections/one)
 ### II.
 - Response - [Link](reflections/two)
-
-## PRESENTATION
-### Final Project
