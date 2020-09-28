@@ -1,4 +1,6 @@
-# 360
+# CART 360 - TANGIBLE MEDIA & PHYSICAL COMPUTING
+
+##
 
 ## ETUDES
 - Stranger Things - [Link](etudes/strangerthings)
@@ -15,5 +17,7 @@
 - Artifact - [Link](projects/artifact)
 
 ## CRITICAL REFLECTIONS
-### One
-### Two
+### I.
+- Response - [Link](reflections/one)
+### II.
+- Response - [Link](reflections/two)
